@@ -13,10 +13,9 @@ main {
 
 #kiirato{
     background-color: rgb(179, 178, 178);
-    margin: auto;
-    width: 80%;
     border-radius: 10px;
-    margin-bottom: 10px;
+    padding: 10px;
+    color: red;
 }
 
 #gombok {
